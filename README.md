@@ -1,2 +1,3 @@
-# tcc
-Tcc compiler as server lotary exemple
+# debug.game
+
+learn to debug a easy game
