@@ -1,3 +1,3 @@
-# debug.game
+# faucc.ide.c
 
-learn to debug a easy game
+a c ide to the compiler faucc but can be change to any c compiler
